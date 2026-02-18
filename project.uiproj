@@ -1,0 +1,6 @@
+{
+  "Name": "新目付役",
+  "ProjectType": "Process",
+  "Description": "Robotic Enterprise Framework です。",
+  "MainFile": "Main.xaml"
+}
